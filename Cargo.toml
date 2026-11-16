@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-rootfs-mount"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS rootfs-mount component - boot"
+
+[lib]
+name = "rootfs_mount"
+path = "src/lib.rs"
