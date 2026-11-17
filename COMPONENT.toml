@@ -3,7 +3,7 @@ name = "SigmaOS-rootfs-mount"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "rootfs-mount component"
+description = "rootfs mount component"
 upstream = []
 
 [contract]
